@@ -6,7 +6,7 @@ _🎯 Aiming at applying large multimodal models into paleography and archaeolog
 
 #### 📖Main Projects
 
-- ① **OBI-Bench [ICLR2025[**: [Repo](https://github.com/zijianchen98/OBI-Bench, [Preprint](https://arxiv.org/abs/2412.01175). The first comprehensive benchmark for LMMs (6 proprietary and 17 open-source) on five OBI tasks.
+- ① **OBI-Bench [ICLR2025[**: [Repo](https://github.com/zijianchen98/OBI-Bench), [Preprint](https://arxiv.org/abs/2412.01175). The first comprehensive benchmark for LMMs (6 proprietary and 17 open-source) on five OBI tasks.
 
 
 
